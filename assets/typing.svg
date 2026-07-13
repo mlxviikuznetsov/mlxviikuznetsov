@@ -1,5 +1,5 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 60" style="background-color: #00000000;" width="500px" height="60px">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 35" style="background-color: #00000000;" width="500px" height="40px">
   <style>
     @font-face {
       font-family: 'WDXL Lubrifont JP N';
@@ -59,14 +59,14 @@ IDBQv3IhMBJgUVJCEU8QocEMIOFBQB3hEOEhEWEBMgpR8GBgMICPy4HgHhDAQOHv58EA4UDxcOFQABAV
     <!-- Single line -->
     <animate id="d0" attributeName="d" begin="0s;d1.end" dur="5050ms" fill="remove" values="m0,30 h0 ; m0,30 h500 ; m0,30 h500 ; m0,30 h0" keyTimes="0;0.79207920792079;0.8019801980198;1" />
   </path>
-  <text font-family="&quot;WDXL Lubrifont JP N&quot;, monospace" fill="#b991f8" font-size="40" dominant-baseline="auto" x="0%" text-anchor="start" letter-spacing="normal">
+  <text font-family="&quot;WDXL Lubrifont JP N&quot;, monospace" fill="#a1a1c1" font-size="40" dominant-baseline="auto" x="0%" text-anchor="start" letter-spacing="normal">
     <textPath xlink:href="#path0"> プレゼント・デイ </textPath>
   </text>
   <path id="path1">
     <!-- Single line -->
     <animate id="d1" attributeName="d" begin="d0.end" dur="5050ms" fill="remove" values="m0,30 h0 ; m0,30 h500 ; m0,30 h500 ; m0,30 h0" keyTimes="0;0.79207920792079;0.8019801980198;1" />
   </path>
-  <text font-family="&quot;WDXL Lubrifont JP N&quot;, monospace" fill="#b991f8" font-size="40" dominant-baseline="auto" x="0%" text-anchor="start" letter-spacing="normal">
+  <text font-family="&quot;WDXL Lubrifont JP N&quot;, monospace" fill="#a1a1c1" font-size="40" dominant-baseline="auto" x="0%" text-anchor="start" letter-spacing="normal">
     <textPath xlink:href="#path1"> 　　　　　　プレゼント・タイム </textPath>
   </text>
 </svg>
